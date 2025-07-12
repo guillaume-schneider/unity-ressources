@@ -24,7 +24,7 @@
   Ce cours n’enseigne pas Unity directement, mais pose des bases solides applicables à tout moteur.*
 
 - **Création d’un Dark Souls (Sebastian Graves)**  
-  [`🟡 Intermédiaire`](#) [`🔴 Avancé`](#) [`💸 Gratuit`](#)  
+  [`🟡 Intermédiaire`](#) [`🔴 Avancé`](#) [`💸 Gratuit`](#)
   📺 [Voir la playlist](https://www.youtube.com/playlist?list=PLD_vBJjpCwJtrHIW1SS5_BNRk6KZJZ7_d)  
   *Développement complet d’un jeu type Souls-like sous Unity.  
   Parfait pour découvrir la construction d’un projet complexe : animation, combat, physique, interface, architecture, etc.*
@@ -38,17 +38,29 @@
 
 ## 📺 Chaînes YouTube recommandées
 
-- **Brackeys**
-📺 [Voir la chaîne](https://www.youtube.com/@Brackeys)
-La chaîne emblématique pour apprendre Unity. Des tutoriels très pédagogiques, bien structurés, couvrant les bases (mouvement, UI, physique, etc.) ainsi que des projets complets. Malgré l'arrêt de la chaîne en 2020, tout le contenu reste pertinent.
+- **Brackeys**  
+  📺 [Voir la chaîne](https://www.youtube.com/@Brackeys)  
+  *La chaîne emblématique pour apprendre Unity. Des tutoriels très pédagogiques, bien structurés, couvrant les bases (mouvement, UI, physique, etc.) ainsi que des projets complets. Malgré l'arrêt de la chaîne en 2020, tout le contenu reste pertinent.*
 
-Code Monkey
-📺 [Voir la chaîne](https://www.youtube.com/@CodeMonkeyUnity)
-Tutoriels pratiques sur des systèmes complexes : logique de jeu, architecture de code, systèmes de combat, IA, ECS, etc. Convient bien à ceux qui veulent écrire du code propre et structuré avec Unity.
+- Code Monkey  
+  📺 [Voir la chaîne](https://www.youtube.com/@CodeMonkeyUnity)  
+  *Tutoriels pratiques sur des systèmes complexes : logique de jeu, architecture de code, systèmes de combat, IA, ECS, etc. Convient bien à ceux qui veulent écrire du code propre et structuré avec Unity.*
 
-Jason Weimann
-📺 [Voir la chaîne](https://www.youtube.com/c/Unity3dCollege/videos)
-Ancien développeur pro chez Unity. Focus sur les bonnes pratiques de programmation, architecture logicielle, design patterns, gestion de projet, multijoueur, etc. Très utile pour aller au-delà des simples tutoriels.
+- Jason Weimann  
+  📺 [Voir la chaîne](https://www.youtube.com/c/Unity3dCollege/videos)  
+  *Ancien développeur pro chez Unity. Focus sur les bonnes pratiques de programmation, architecture logicielle, design patterns, gestion de projet, multijoueur, etc. Très utile pour aller au-delà des simples tutoriels.*
+
+- Sunny Valley Studio  
+  📺 [Voir la chaîne](https://www.youtube.com/@SunnyValleyStudio)  
+  *Tutoriels détaillés centrés sur le développement de jeux Unity en C#, surtout orientés 3D. Bon équilibre entre systèmes de gameplay et concepts techniques.*
+
+- Game Code Library  
+  📺 [Voir la chaîne](https://www.youtube.com/@GameCodeLibrary)  
+  *Tutoriels clairs principalement orientés 2D, parfaits pour apprendre les bases du scripting Unity et le gameplay simple.*
+
+- Night Run Studio  
+  📺 [Voir la chaîne](https://www.youtube.com/@NightRunStudio/videos)  
+  *Tutoriels principalement orientés sur le développement de mécaniques de jeu 2D, notamment RPG.*
 
 ---
 
