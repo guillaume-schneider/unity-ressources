@@ -34,13 +34,20 @@
   🌐 [Accéder à Unity Learn](https://learn.unity.com/)  
   *Parcours interactifs conçus par Unity. Très bon pour débuter pas à pas avec l’environnement Unity (scènes, scripting, physique, UI, etc.).*
 
+- **Cours complet sur le développement Unity 6 (GameDev.Tv)**  
+  [`🟢 Débutant`](#) [`🟡 Intermédiaire`](#) [`💰 Payant`](#)  
+ 🌐 [Accéder à Udemy](https://www.udemy.com/course/unitycourse2/?couponCode=KEEPLEARNING)  
+*Cours complet pour apprendre la programmation C# et le développement de jeux 2D avec Unity.
+Il couvre les bases du scripting, les mécanismes de gameplay, l’animation, la gestion des assets, et la publication de jeux.
+Contenu bien structuré avec des projets pratiques, parfait pour apprendre en faisant.*
+
 ---
 
 ## 📺 Chaînes YouTube recommandées
 
 - **Brackeys**  
   📺 [Voir la chaîne](https://www.youtube.com/@Brackeys)  
-  *La chaîne emblématique pour apprendre Unity. Des tutoriels très pédagogiques, bien structurés, couvrant les bases (mouvement, UI, physique, etc.) ainsi que des projets complets. Malgré l'arrêt de la chaîne en 2020, tout le contenu reste pertinent.*
+  *La chaîne emblématique pour apprendre Unity. Des tutoriels très pédagogiques, bien structurés, couvrant les bases (mouvement, UI, physique, etc.) ainsi que des projets complets. Malgré l'arrêt de la chaîne sur Unity en 2020, tout le contenu reste pertinent.*
 
 - Code Monkey  
   📺 [Voir la chaîne](https://www.youtube.com/@CodeMonkeyUnity)  
