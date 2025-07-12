@@ -42,7 +42,7 @@ Il couvre les bases du scripting, les mécanismes de gameplay, l’animation, la
 Contenu bien structuré avec des projets pratiques, parfait pour apprendre en faisant.*
 
 - **Game Design and Development with Unity (Michigan State University – Coursera)**  
-[`🟡 Intermédiaire`](#) [`💸 Gratuit`](#) 
+[`🟡 Intermédiaire`](#) [`💸 Gratuit`](#)  
 🌐 [Accéder au programme](https://gamedev.msu.edu/coursera/)  
 *Spécialisation en 5 cours proposée par la Michigan State University. Apprends les fondements du game design et la production de jeux vidéo avec Unity à travers des projets concrets.
 Couvre la conception, la narration, le scripting, la 2D/3D, le déploiement multiplateforme et les bonnes pratiques de développement. Possibilité de certification officielle via Coursera. Très complet et reconnu.*
