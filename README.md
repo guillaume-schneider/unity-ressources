@@ -36,6 +36,22 @@
 
 ---
 
+## 📺 Chaînes YouTube recommandées
+
+- **Brackeys**
+📺 [Voir la chaîne](https://www.youtube.com/@Brackeys)
+La chaîne emblématique pour apprendre Unity. Des tutoriels très pédagogiques, bien structurés, couvrant les bases (mouvement, UI, physique, etc.) ainsi que des projets complets. Malgré l'arrêt de la chaîne en 2020, tout le contenu reste pertinent.
+
+Code Monkey
+📺 [Voir la chaîne](https://www.youtube.com/@CodeMonkeyUnity)
+Tutoriels pratiques sur des systèmes complexes : logique de jeu, architecture de code, systèmes de combat, IA, ECS, etc. Convient bien à ceux qui veulent écrire du code propre et structuré avec Unity.
+
+Jason Weimann
+📺 [Voir la chaîne](https://www.youtube.com/c/Unity3dCollege/videos)
+Ancien développeur pro chez Unity. Focus sur les bonnes pratiques de programmation, architecture logicielle, design patterns, gestion de projet, multijoueur, etc. Très utile pour aller au-delà des simples tutoriels.
+
+---
+
 ## 📚 Ressources transversales
 
 - **Documentation Unity**  
