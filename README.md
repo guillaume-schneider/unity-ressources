@@ -29,6 +29,13 @@
   *Développement complet d’un jeu type Souls-like sous Unity.  
   Parfait pour découvrir la construction d’un projet complexe : animation, combat, physique, interface, architecture, etc.*
 
+- **Tutoriels C# et Shaders (Catlike Coding)**  
+  [`🟡 Intermédiaire`](#) [`🔴 Avancé`](#) [`💸 Gratuit`](#)  
+  🌐 [Accéder aux tutoriels](https://catlikecoding.com/unity/tutorials/)  
+  *Série de tutoriels détaillés couvrant le rendu, le shading, la génération procédurale, et des systèmes avancés dans Unity.  
+  Parfait pour approfondir la compréhension de l’architecture Unity, des pipelines graphiques et du code performant.  
+  Idéal pour les développeurs souhaitant aller au-delà des bases et maîtriser des aspects techniques poussés.*
+
 - **Cours officiel Unity Learn**  
   [`🟢 Débutant`](#) [`💸 Gratuit`](#)  
   🌐 [Accéder à Unity Learn](https://learn.unity.com/)  
